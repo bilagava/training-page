@@ -1,0 +1,52 @@
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    margin: 0; 
+}
+
+body{
+    display: block;
+    margin: 0;
+    font-family:'Roboto', sans-serif;
+    background-color:white;
+    color:black;
+    font-size: 14px;
+    letter-spacing: 0.03em;
+}
+
+.list {
+    padding: 0;
+    margin: 0;
+    list-style:none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.link {
+    display: block;
+    color: brown;
+    font-size: 18px;
+}
+.container{ 
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 15px;
+    width: 1200px;
+    height: 100%;
+    background-color: yellowgreen;
+    outline: 1px solid tomato;
+}
+
+.section{
+    padding-top: 60px;
+    padding-bottom: 60px; 
+    outline: 1px solid blue;
+}
+
