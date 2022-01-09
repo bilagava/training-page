@@ -1,0 +1,7 @@
+console.log(Number.MAX_SAFE_INTEGER)
+console.log(Number.MIN_SAFE_INTEGER)
+console.log(Number.MAX_VALUE)
+console.log(Number.MIN_VALUE)
+console.log('POSITIVE_INFINITY', Number.POSITIVE_INFINITY)
+console.log(0.4+0.2)
+console.log((0.4+0.2).toFixed(1))
